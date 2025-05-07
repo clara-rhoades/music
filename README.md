@@ -110,5 +110,6 @@ This project goes beyond engineering: it demonstrates how thoughtful system desi
 ├── tracks.csv            # Track node list for Neo4j
 ├── edges.csv             # Graph edges (relationships)
 ├── neo4j_graph.ipynb     # Full pipeline from raw data to Neo4j graph
+├── final_slides.pdf      # PDF of presentation slide deck
 └── README.md             # You are here :)
 
