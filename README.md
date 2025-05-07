@@ -1,7 +1,9 @@
 # 🎶 Smart Music Recommendation System for Emerging Artists
 
 **Listen Differently: How we used Neo4j, MongoDB, and Redis to connect listeners to emerging artists**  
-*By Mayadah Alhashem, Jinney Hong, Rachel Kalafos, and Clara Rhoades*  
+
+*By Mayadah Alhashem, Jinney Hong, Rachel Kalafos, and Clara Rhoades* 
+
 *UC Berkeley — Master of Information and Data Science*  
 *Course: DATASCI 205 - Fundamentals of Data Engineering*
 
